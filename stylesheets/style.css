@@ -183,7 +183,7 @@ input[type=text],input[type=password],input[type=email]{
 #selection li{
 	list-style:			none;
 	float:				left;
-	width:				600px;
+	width:				500px;
 	background:			rgba(255,255,255,0.4);
 	display:			block;
 	color:				white;
@@ -226,19 +226,20 @@ ul#navbar{
 	padding:			0;
 }
 
-#options{
+#options2{
 	width:				100%;
 	font-size:			26px;
 }
 
-#options li{
-	width:				33.3%;
+#options2 li{
+	width:				50%;
 }
 
-ul#options{
+ul#options2{
 	list-style:			none;
 	padding:			0;
 }
+
 
 #list{
 	margin-top:			50px;
